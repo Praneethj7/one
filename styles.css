@@ -1,8 +1,8 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  margin: 20;
-  padding: 5;
+  margin: 200;
+  padding: 50;
   box-sizing: border-box;
   color: #333;
 }
@@ -82,14 +82,14 @@ header .nav-links a {
 .card {
   background: #f9f9f9;
   padding: 1rem;
-  border-radius: 10px;
-  width: 30%;
+  border-radius: 50px;
+  width: 70%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .card img {
-  max-width: 50%;
-  border-radius: 50px;
+  max-width: 100%;
+  border-radius: 70px;
 }
 
 .gallery {
