@@ -1,8 +1,8 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  margin: 20;
-  padding: 5;
+  margin: 200;
+  padding: 50;
   box-sizing: border-box;
   color: #333;
 }
@@ -67,8 +67,8 @@ header .nav-links a {
 }
 
 .about img, .gallery img {
-  max-width: 100%;
-  border-radius: 10px;
+  max-width: 10%;
+  border-radius: 50px;
   margin-top: 1rem;
 }
 
@@ -88,8 +88,8 @@ header .nav-links a {
 }
 
 .card img {
-  max-width: 10%;
-  border-radius: 30px;
+  max-width: 70%;
+  border-radius: 70px;
 }
 
 .gallery {
@@ -100,7 +100,7 @@ header .nav-links a {
 }
 
 .gallery img {
-  width: 30%;
+  width: 80%;
   height: auto;
 }
 
