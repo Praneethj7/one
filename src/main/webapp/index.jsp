@@ -33,13 +33,13 @@
         }
 
         body {
-            margin: 0;
+            margin: 19;
             font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
             color: var(--primary);
             background: var(--bg);
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
-            line-height: 1.4;
+            line-height: 1.9;
         }
 
         a {
@@ -68,7 +68,7 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 16px;
+            gap: 16%;
             padding: 14px 0;
         }
 
@@ -77,8 +77,8 @@
             align-items: center;
             gap: 12px;
             font-family: Poppins, sans-serif;
-            font-weight: 700;
-            font-size: 20px;
+            font-weight: 70;
+            font-size: 50px;
             color: var(--primary);
         }
 
@@ -94,10 +94,10 @@
 
         nav.main-nav ul {
             display: flex;
-            gap: 8px;
+            gap: 80px;
             list-style: none;
-            margin: 0;
-            padding: 0;
+            margin: 20;
+            padding: 50;
             align-items: center;
         }
 
@@ -130,7 +130,7 @@
             border: 0;
             background: transparent;
             outline: none;
-            width: 100%;
+            width: 50%;
             font-size: 14px;
         }
 
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Summer Collection — Premium Picks</h1>
+                <h1>rainy Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
